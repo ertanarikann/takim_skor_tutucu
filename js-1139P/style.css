@@ -1,0 +1,19 @@
+ .sectionbg{
+    background-image: url(bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+#takim1Duzenle{
+text-decoration: none;
+color: white;
+}
+
+#team1Name{
+    background-color: grey;
+    color: white;
+    
+}
+#team2Name{
+    background-color: grey;
+    color: white;   
+}
